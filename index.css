@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(184, 180, 180);
+}
+
+h1,h2,h3{
+    color: aliceblue;
+}
+
+#High , #time{
+    text-align: center;
+    margin-top: 90px;
+}
+#title2 {
+    text-align: right;
+    margin-top: -70px;
+}
+#click {
+    display: block;
+    margin: 0 auto;  /* left-right auto = center */
+}
+#Score{
+    text-align: center;
+}
